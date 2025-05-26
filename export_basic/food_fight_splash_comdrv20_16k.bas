@@ -5,14 +5,14 @@
 # Language    : BASIC
 # Status      : ALPHA
 # Platform    : COMMODORE VIC 20
-# Date/Time   : 2025-05-24-10-35-03
+# Date/Time   : 2025-05-25-21-03-05
 #############################################
 |------------Restore Characters---------->
 poke 36869,192
 |------------Relocated BASIC------------->
 poke44,30 : poke30*256,0 : new : clr
 |------------Program Below--------------->
-100rem.generated.2025-05-24-10-35-03
+100rem.generated.2025-05-25-21-03-05
 101gosub105:gosub108:gosub113:gosub117:gosub120:gosub127
 102gosub142
 103goto102
