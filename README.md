@@ -11,18 +11,28 @@ Designing in this manner, the game developer doesn't have to worry deeply about 
 ## Current Status
 The design tool works on Linux and Pi and is continually improving.  The tool exports in a hello world manner in BASIC which then works on vic20 and C64.   All that is exported is enough to render the screen and show basic animation of sprites.  No actual game play is working, BASIC is way too slow.  But conceptually it's cool to see this all working.
 
+I will release all of this open source, but right now way much is broken to attempt allowing it to be shared.  I am still tinkering greatly and refactoring the schemas and backends almost daily
+
 ## In Progress
 The design tool UI is working and mostly working in the way I envisioned.  Lots of bugs remain, and the UI will be cleaned up greatly.  I will be working on exporting to actual hardware instead of VICE.  I now have a working Vic20 with 16K of RAM and my original C64 connected to a tube tv.  I'm excited to see this all running on hardware.
 
 Next up for the export process will be creating data files on disk that contains the screens, sprites and positional data to be loaded into memory.  Thereafter the actual game play will be developed.  Time to re-release 6502 assembly.
 
+## Future
+I have some games in my head that I want to write on these platforms, and once the tool matures-- will do so.
+
+I also want to support other computers and learn them.  Ti 99 4/A, Ataris -- Bring them on. 
+
 ## Hello World Exports
 The design tool has 3 games that load into the database and I will be completing all 3 so that they work as expected.  Game play will obviously require 100% machine language.
 
 ### Sample Hello World
+This very basic game will just run an animation loop and test edge detection and UI animation.
 
 ### Food Fight
+One of my favorite games, that does not work on Vic20 and C64.  I hope to add features as the tool matures and have a working game.
 
 ### Battlestar Galactica Space Alert
+
 
 ![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/food_fight_game_comdrv20_16k.png "Title")
