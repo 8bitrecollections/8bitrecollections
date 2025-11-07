@@ -8,6 +8,8 @@ I did not see any see any tools that work in my head, so I started working on my
 
 Designing in this manner, the game developer doesn't have to worry deeply about the under the hood issues and those are handled during the export process.  I also wanted it to work this way so that as you optimize the exporting process it would be possibly to rebuild all of your previous games and have them work better immediately as well.  GUI and game play sit in a database.  The export tool reads the database and creates code that just works.
 
+A game will be developed, as many elements as possible will be resused and consistent.  The resulting export will be as similar as possible on all targets.
+
 ## Current Status
 The design tool works on Linux and Pi and is continually improving.  The tool exports in a hello world manner in BASIC which then works on vic20 and C64.   All that is exported is enough to render the screen and show basic animation of sprites.  No actual game play is working, BASIC is way too slow.  But conceptually it's cool to see this all working.
 
