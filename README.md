@@ -28,19 +28,32 @@ I also want to support other computers and learn them.  Ti 99 4/A, Ataris -- Bri
 ## Hello World Exports
 The design tool has 3 games that load into the database and I will be completing all 3 so that they work as expected.  Game play will obviously require 100% machine language.
 
-### Sample Hello World
+### Hello World
 This very basic game will just run an animation loop and test edge detection and UI animation.
+
 #### Vic 20
+##### Splash Page
+##### Game Play
+
 #### Commodore 64
+##### Splash Page
+##### Game Play
 
 ### Food Fight
-One of my favorite games, that does not work on Vic20 and C64.  I hope to add features as the tool matures and have a working game.
+One of my favorite games, as far as I know this was never ported to the Commodore platforms.  I hope to add features as the tool matures and have a working game.
+
 #### Vic 20
+##### Splash Page
+##### Game Play
 ![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/food_fight_game_comdrv20_16k.png "Title")
 #### Commodore 64
 
 ### Battlestar Galactica Space Alert
 This is a game patterned after the old Mattel electronics handheld game that I enjoyed when I was young.  My orginal game is still sitting right here and works.
 #### Vic 20
-#### Commodore 64
+##### Splash Page
+##### Game Play
 
+#### Commodore 64
+##### Splash Page
+##### Game Play
