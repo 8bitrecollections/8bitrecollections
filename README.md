@@ -51,6 +51,10 @@ One of my favorite games, as far as I know this was never ported to the Commodor
 ##### Game Play
 ![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/comdrv20_project0002_layout0001.png "Title")
 #### Commodore 64
+##### Splash Page
+![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/comdr64_project0002_splash0001.png "Title")
+##### Game Play
+![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/comdr64_project0002_layout0001.png "Title")
 
 ### Battlestar Galactica Space Alert
 This is a game patterned after the old Mattel electronics handheld game that I enjoyed when I was young.  My orginal game is still sitting right here and works.
