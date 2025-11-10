@@ -29,6 +29,8 @@ I also want to support other computers and learn them.  Ti 99 4/A, Ataris -- Bri
 ## Hello World Exports
 The design tool has 3 games that load into the database and I will be completing all 3 so that they work as expected.  Game play will obviously require 100% machine language.
 
+Commodore 64 games will work in base memory.  Vic 20 requires 16K expansion.  I really tinkered with the stock Vic20, but using as soon as you create your own character set, memory is almost already gone.  
+
 ### Hello World
 This very basic game will just run an animation loop and test edge detection and UI animation.
 
