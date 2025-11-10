@@ -3,7 +3,7 @@
 If you want to reach out to me, my email address is 8bitrecollections@gmail.com.  No source code can be released yet.  I promise it's still not ready to consumption and testing.
 
 ## History And Design Goals
-One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  They launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware.  Build the best possible game, have a tool that exports to the desired platform(s).  I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
+One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  These systems launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, one should write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware. I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
 
 Originally I played with the idea of building games and being able to export to for example Vic 20 and C64 from the same UI elements.  This just cannot happen reliably and automatically because of the major differences in resolution and platform features.  So I settled on the concept that allows you to select 22, 32, 40 and 80 columns and build elements at that scale and export to platforms.
 
@@ -27,14 +27,14 @@ I have some games in my head that I want to write on these platforms, and once t
 I also want to support other computers and learn them.  Ti 99 4/A, Ataris -- Bring them on. 
 
 ## Design Tool
-This custom design tool allows for the building of games including graphic elements and 'rules'.  This is very much a work in progress and now that I have all 3 days exporting to BASIC, I will spend more time cleaning up the internals and UI.
+This custom design tool allows for the building of games including graphic elements and 'rules'.  This is very much a work in progress and now that I have all 3 days exporting to BASIC, I will spend more time cleaning up the internals and UI.  Here is the current status:
 
 ![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/ui_design_tool.png "Title")
 
 ## Hello World Exports
 The design tool has 3 games that load into the database and I will be completing all 3 so that they work as expected.  Game play will obviously require 100% machine language.
 
-Commodore 64 games will work in base memory.  Vic 20 requires 16K expansion.  I really tinkered with the stock Vic20, but using as soon as you create your own character set, memory is almost already gone. 
+Commodore 64 games will work in base memory.  Vic 20 requires 16K expansion.  I really wanted the Vic20 to work with default memory, but it's just not enough to build a nice looking game in this manner.  It's easy enough to give it more memory in VICE and 16K cartridges are readily available on eBay.  It's my plan to allow this tool to build pure Petsci games and export identically, possibly this could fit into the base Vic.  It will be fun to try!
 
 I am constantly tinkering with bits and improving the screens.
 
