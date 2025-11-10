@@ -37,13 +37,11 @@ I am constantly tinkering with bits and improving the screens.
 This very basic game will just run an animation loop and test edge detection and UI animation.
 
 #### Vic 20
-##### Splash Page
 ##### Game Play
-
+![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/comdrv20_project0001_layout0001.png "Title")
 #### Commodore 64
-##### Splash Page
 ##### Game Play
-
+![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/comdr64_project0001_layout0001.png "Title")
 ### Food Fight
 One of my favorite games, as far as I know this was never ported to the Commodore platforms.  I hope to add features as the tool matures and have a working game.
 
