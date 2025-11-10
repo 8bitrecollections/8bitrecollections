@@ -26,6 +26,11 @@ I have some games in my head that I want to write on these platforms, and once t
 
 I also want to support other computers and learn them.  Ti 99 4/A, Ataris -- Bring them on. 
 
+## Design Tool
+This custom design tool allows for the building of games including graphic elements and 'rules'.  This is very much a work in progress and now that I have all 3 days exporting to BASIC, I will spend more time cleaning up the internals and UI.
+
+![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/ui_design_tool.png "Title")
+
 ## Hello World Exports
 The design tool has 3 games that load into the database and I will be completing all 3 so that they work as expected.  Game play will obviously require 100% machine language.
 
