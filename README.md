@@ -47,8 +47,9 @@ One of my favorite games, as far as I know this was never ported to the Commodor
 
 #### Vic 20
 ##### Splash Page
+![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/comdrv20_project0002_splash0001.png "Title")
 ##### Game Play
-![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/food_fight_game_comdrv20_16k.png "Title")
+![alt text](https://github.com/8bitrecollections/8bitrecollections/blob/main/screenshots/comdrv20_project0002_layout0001.png "Title")
 #### Commodore 64
 
 ### Battlestar Galactica Space Alert
