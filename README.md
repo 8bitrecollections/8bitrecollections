@@ -3,7 +3,7 @@
 If you want to reach out to me, my email address is 8bitrecollections@gmail.com.  No source code can be released yet.  I promise it's still not ready to consumption and testing.
 
 ## Current Update
-2025-11-26: The new databases are loading, created indexes on various fields to speep up the SQL calls, which is all working. Created UI for the BASIC gui output area which will replace the command line POC that is already working.  I have poked at the edges of the major Database refactoring which is required to advance many of the elements.  Things will be very broken for a few days while fixing all of the UI bugs.
+2025-11-27: Moving UI widgets data into the database from the flat files, language codes as well for later translation.  UI cleanups and prepping for dynamic UI.  A few days of work at least to refactor this code.
 
 ## History And Design Goals
 One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  These systems launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, one should write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware. I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
