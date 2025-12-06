@@ -3,7 +3,7 @@
 If you want to reach out to me, my email address is 8bitrecollections@gmail.com.  No source code can be released yet.  I promise it's still not ready to consumption and testing.
 
 ## Current Update
-2025-12-05: Rebuilding all UI elements into the database and now have started to change the Glade file to match and allow for dynamic platform areas.  This will make adding more platforms past Vic and C64 super easy.
+2025-12-06: Still removing the static tier levels based on my original proof of concept and building dynamic widgets.  Removing the flat file based widget values and moving them into a database.
 
 ## History And Design Goals
 One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  These systems launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, one should write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware. I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
