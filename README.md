@@ -3,8 +3,8 @@
 If you want to reach out to me, my email address is 8bitrecollections@gmail.com.  No source code can be released yet.  I promise it's still not ready to consumption and testing.
 
 ## Current Update
-2026-01-05: Making great progress debugging the POC and unhooking flat file configs and moving them to the database.  Also debugging the code and removing hard coded tier levels and getting it to load dynamically.  The UI is starting to run well.  Maybe another week or so and it should be working as expected.  Then I can properly being merging in new platforms and also improving the export process.
-
+2026-01-04: Refactoring all of the code around the new dynamic widgets.  Roughly 60% of the POC is working in the new design.  A lot of code cleanups are happening right now because the final design is known.   Hard coded values are being removed and everything is loaded from databases.
+ 
 ## History And Design Goals
 One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  These systems launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, one should write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware. I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
 
