@@ -3,8 +3,8 @@
 If you want to reach out to me, my email address is 8bitrecollections@gmail.com.  No source code can be released yet.  I promise it's still not ready to consumption and testing.
 
 ## Current Update
-2026-02-08: The UI is running well now using the database.  The flat files have been removed from the build tree and are no longer being accessed.  Lots and lots of code cleanups from the pOC.  Merged in TI994A and Intellivision support which is very different than the Commodore platforms.  2 color Sprites that are 8x8 by default.  Creating code to allow for sprites to be joined so we can build proper looking sprites on TI994a, 8x8s are way too small.  Looking over how the various platforms build sprites.
- 
+2026-02-11: New sprite editing code is working nicely, the POC was designed for Commodore sprites 24x21.  The new code understands the size of the sprites per platform and allows you to stack them together.  This was done for TI 994a.  We also will be able to now to support 8x16 on Intellivision.  Now cleaning up the export code to generate actual code and merging in an idea I had to query the database for INDEXs and then selt report missing INDEXs while the app is running.
+
 ## History And Design Goals
 One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  These systems launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, one should write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware. I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
 
