@@ -3,8 +3,7 @@
 If you want to reach out to me, my email address is 8bitrecollections@gmail.com.  No source code can be released yet.  I promise it's still not ready to consumption and testing.
 
 ## Current Update
-2026-03-05: Petscii game editing is all in and working.  I am cleaning up the database now and loading in another game into the editor and starting to work out the best approach to export to BASIC and machine language.  Inching closer to exporting for six platforms, with 4 sample games.
-
+2026-03-10: Updates to the database to allow for dynamic sizes of the game edges, which will allow for higher quality game elements.  I will then merge in updates to the latest game design and focus on the export process and get it writing out BASIC code again like the POC.
 
 ## History And Design Goals
 One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  These systems launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, one should write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware. I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
