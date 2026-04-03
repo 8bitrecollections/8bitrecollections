@@ -3,7 +3,7 @@
 If you want to reach out to me, my email address is 8bitrecollections@gmail.com.  No source code can be released yet.  I promise it's still not ready to consumption and testing.
 
 ## Current Update
-2026-03-20: Merging in the design assistant popup window to help with elements for all platforms.  Merging in templates and working out access to the database from the templates.  Considering conversion from platforms
+2026-04-03: I continue code cleanups and building export variables so we can throw out basic code that will run on the various platforms.  Commodore platforms are first and replicating what was created in the POC.  This design will allow new platforms to be easily added by just building variables.
 
 ## History And Design Goals
 One of my first computers was a Commodore Vic 20 and later I owned a Commodore 64.  These systems launched my interest in computers and solidifed my IT career path.  For the last 10 years or so I found myself thinking of these old systems and wanting to develop games.  I wrote a few simple games in my teens and enjoyed tinkering and the technical challenges of these platforms.  Likewise, in my professional career I have always advocated for cross platform solutions.  As much as possible, one should write once and then deploy to all platforms.  This is accomplished by keeping the game design elements away from the low level hardware. I also know there are people out there with great games in their heads that do not and should not have to understand the hardware.  I cannot wait to see what they can design.
